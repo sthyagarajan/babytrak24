@@ -1,8 +1,8 @@
 BabyTrak24 App
 ======================
 
-The repository contains the code for babytrak24app, written leveraging Spring Boot and deployed AWS
-It is a custom application built to showcase the ability to monitor baby activity round the clock
+The repository contains the code for babytrak24app, written leveraging Spring Boot and deployed in AWS.
+It is a custom application built to showcase the ability to monitor and track baby activity round the clock.
 
 
 ## Table of content
